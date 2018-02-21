@@ -1,0 +1,14 @@
+{
+    "name": "routa/rekry",
+    "description": "Just a demo package for recruiting use",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "authors": [
+        {
+            "name": "Filip Holmberg",
+            "email": "filip@mobiilimarkkinointirouta.fi"
+        }
+    ],
+    "minimum-stability": "dev"
+}
